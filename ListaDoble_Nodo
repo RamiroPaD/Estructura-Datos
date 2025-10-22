@@ -1,0 +1,44 @@
+ListaDoble_Nodo
+
+/**
+ *La clase Nodo acepta cualquier tipo de valores con atributos privados y crear sus getters y setters
+ * @author Ramiro Padierna Delgado
+ * @author 1224100710.rpd@gmail.com
+ */
+public class Nodo<T> {
+  private T dato; 
+  private Nodo izq;
+  private Nodo der;
+    
+  public Nodo (){
+      dato = null;
+  }
+  public Nodo(T dato){
+      this.dato= dato;
+  }
+
+    public T getDato() {
+        return dato;
+    }
+
+    public void setDato(T dato) {
+        this.dato = dato;
+    }
+
+    public Nodo getIzq() {
+        return izq;
+    }
+
+    public void setIzq(Nodo izq) {
+        this.izq = izq;
+    }
+
+    public Nodo getDer() {
+        return der;
+    }
+
+    public void setDer(Nodo der) {
+        this.der = der;
+    }
+  
+}
