@@ -1,6 +1,6 @@
-#Estructura de Datos
+# Estructura de Datos
 
-##Ejercicios guiados
+## Ejercicios guiados
 | Actividad        | Nombre           | Url  |
 | ------------- |:-------------:| -----:|
 | 1     | U2EJERGUIA01 | [Ver PDF](U2EJERGUIA01_PadiernaDelgadoRamiro.pdf)   |
