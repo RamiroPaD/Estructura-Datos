@@ -5,4 +5,6 @@
 | ------------- |:-------------:| -----:|
 | 1     | U2EJERGUIA01 | [Ver PDF](U2EJERGUIA01_PadiernaDelgadoRamiro.pdf)   |
 | 2   |  U2ACT2    | [Ver PDF](U2ACT2_PadiernaDelgadoRamiro.pdf)   |
-| 3 |  CursoListas     |     |
+| 3 |  CursoListas     | [Ver PDF](CursoListas_PadiernaDelgadoRamiro.pdf)    |
+| 4 |  Repaso de Listas     | [Ver PDF](Repaso_De_Listas_PadiernaDelgadoRamiro.pdf)    |
+| 5 |  Repaso     | [Ver PDF](Repaso_PadiernaDelgadoRamiro.pdf)    |
