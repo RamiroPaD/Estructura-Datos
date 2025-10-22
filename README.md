@@ -1,6 +1,6 @@
 # Estructura de Datos
-
 ## Ejercicios guiados
+### PDFS
 | Actividad        | Nombre           | Url  |
 | ------------- |:-------------:| -----:|
 | 1     | U2EJERGUIA01 | [Ver PDF](U2EJERGUIA01_PadiernaDelgadoRamiro.pdf)   |
@@ -12,6 +12,17 @@
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Listas      |  |  |
+| 1      | Estudiantes      |   [Ver Codigo](Listas_Estudiantes) |
+| 2 | Nodo      |    [Ver Codigo](Lista_Nodo) |
+| Listas Dobles |      |     |
+| 1 | Estudiante      |    [Ver Codigo](ListaDoble_Estudiante) |
+| 2 | Nodo      |    [Ver Codigo](ListaDoble_Nodo) |
+| 3 | Fila de Cine     |    [Ver Codigo](ListaDoble_Fila_de_Cine) |
+| Pilas |       |     |
+| 1 | IStack     |    [Ver Codigo](pilas_IStack) |
+| 2 | StackArray      |    [Ver Codigo](pilas_StackArray) |
+| 3 | MainPila      |    [Ver Codigo](pilas_MainPila) |
+
+## Ejercicios practicos
+
