@@ -1,0 +1,36 @@
+ListaDoble_FilaCine
+
+/**
+ *Esta actividad es un ejemplo de una lista con una Fila de Cine
+ * Administra clientes mediante una lista para ver la pelicula del Joker
+ * @author Ramiro Padierna Delgado
+ * @author 1224100710.rpd@gmail.com
+ */
+public class FilaCine<T> {
+        private Nodo cabeza;
+        private Nodo nodo;
+        
+        public FilaCine(){
+            this.cabeza = null;
+            
+        }
+        public void recorrer(){
+            Nodo<T> temp= cabeza;
+            while(temp.getIzq() !=null){
+                System.out.println(temp.getDato());
+                temp = temp.getIzq();
+            }
+        }
+        public int inspeccionar(){
+            return 0;
+        }
+
+        public void insertar(Nodo node){
+            
+        }
+        
+        public boolean atender(){
+           return true; 
+           
+        }
+    }
