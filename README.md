@@ -25,4 +25,12 @@
 | 3 | MainPila      |    [Ver Codigo](pilas_MainPila) |
 
 ## Ejercicios practicos
+### Ejercicios Practicos de Listas 
+| Actividad        | Nombre           | Codigo  |
+| ------------- |:-------------:| -----:|
+| 1      |  | [Ver Codigo]() |
+| 2      |      |   [Ver Codigo]() |
+| 3 |       |   [Ver Codigo]() |
+| 4 |       |   [Ver Codigo]() |
+| 5 |       |   [Ver Codigo]() |
 
