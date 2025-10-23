@@ -28,7 +28,12 @@
 ### Ejercicios Practicos de Listas 
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
-| 1      |  | [Ver Codigo]() |
+| 1      | Manipulación de Lista Enlazada  | [Ver Codigo](ManipulacionListaEnlazada) |
+| 2      | Lista Enlazada de Palabras desde Archivo  | [Ver Codigo](PalabrasArchivo) |
+| 3      | Representación y Evaluación de Polinomios con Listas Enlazadas | [Ver Codigo](Polinomios) |
+| 4      | Polinomio con Lista Enlazada Circular | [Ver Codigo](PolinomioListaCircular) |
+| 5      | Lista Doblemente Enlazada de Caracteres | [Ver Codigo](ListaDoblementeEnlazadaCaracteres) |
+
 | 2      |      |   [Ver Codigo]() |
 | 3 |       |   [Ver Codigo]() |
 | 4 |       |   [Ver Codigo]() |
