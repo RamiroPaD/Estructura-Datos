@@ -34,8 +34,4 @@
 | 4      | Polinomio con Lista Enlazada Circular | [Ver Codigo](PolinomioListaCircular) |
 | 5      | Lista Doblemente Enlazada de Caracteres | [Ver Codigo](ListaDoblementeEnlazadaCaracteres) |
 
-| 2      |      |   [Ver Codigo]() |
-| 3 |       |   [Ver Codigo]() |
-| 4 |       |   [Ver Codigo]() |
-| 5 |       |   [Ver Codigo]() |
 
