@@ -1,0 +1,95 @@
+Cola
+
+/**
+ *La clase Cola tiene dos atributos con sus getters y setters con metodos
+ * @author Ramiro Padierna Delgado
+ * @author 1224100710.rpd@gmail.com
+ */
+public class Cola<T> {
+    private Nodo<T> cabeza;
+    private Nodo<T> cola;
+    private int tamano;
+    
+    public Cola(){
+        this.cabeza = null; //inializa una cola vacia
+        this.cola = null;
+        this.tamano = 0;
+    }
+    
+    //Se agregaran los setters y getters
+
+    public Nodo<T> getCabeza() {
+        return cabeza;
+    }
+
+    public void setCabeza(Nodo<T> cabeza) {
+        this.cabeza = cabeza;
+    }
+
+    public Nodo<T> getCola() {
+        return cola;
+    }
+
+    public void setCola(Nodo<T> cola) {
+        this.cola = cola;
+    }
+
+    /**
+     *
+     * @return
+     */
+    public int getTamano() {
+        return tamano;
+    }
+
+    public void setTamano(int tamano) {
+        this.tamano = tamano;
+    }
+    // Verifica si la cola esta vacia
+   public boolean colaVacia() {
+       return cabeza == null;
+   }
+   public void insertar(T elemento){
+       Nodo<T> nuevoNodo = new Nodo<>(elemento);
+       
+       if(colaVacia()){  //Caso 1: si la cola esta vacia
+           cabeza = nuevoNodo;
+           cola = nuevoNodo;
+       }else{  // Caso 2: Si la cola NO esta vacia
+           //el nodo actual que era el 'final' ahora apuntara al nuevo nodo
+           this.cola.setSiguiente(nuevoNodo);
+           // El puntero 'cola' (final´) se mueve al nuevo nodo
+           this.cola = nuevoNodo;
+       }
+       tamano++; // Incrementa el tamaño de la cola
+       System.out.println("-> Insertado:"+ elemento);
+   }
+       public T quitar(){
+           if (colaVacia()){
+               System.out.println("Error: La cola esta vacia.");
+           }
+           
+           T datoQuitado = this.cabeza.getDato(); //Se guardara el dato a devolver
+           
+           this.cabeza = this.cabeza.getSiguiente(); //Cabeza siguiente nodo
+           
+           if(this.cabeza == null){ //Actualiza no hay elemntos
+               this.cola = null;
+           }
+           tamano--;
+        return datoQuitado;
+   }
+       
+       /*
+       * Operacion: Frente (Peek)
+       * Devuelve el elemento del FRENTE sin retirarlo
+       */
+       public T frente(){
+           if(colaVacia()){
+               System.out.println("Error: La cola esta vacia");
+           }
+       return this.cabeza.getDato();
+       }
+
+  
+}
