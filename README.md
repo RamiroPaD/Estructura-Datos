@@ -9,6 +9,9 @@
 | 4 |  Repaso de Listas     | [Ver PDF](Repaso_De_Listas_PadiernaDelgadoRamiro.pdf)    |
 | 5 |  Repaso     | [Ver PDF](Repaso_PadiernaDelgadoRamiro.pdf)    |
 | 6 |  Nearpod Cola     | [Ver PDF](Neardpod_Cola_PadiernaDelgadoRamiro.pdf), [Ver Video]("https://drive.google.com/file/d/1fpHAbGegU4IxaLewmZ6tLqtYK9EizH7l/view?usp=drive_link") |
+|   |    Prueba Cola      |          |
+|   |    Cola      |          |
+|   |    Nodo     |          |
 
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
