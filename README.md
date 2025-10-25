@@ -8,7 +8,7 @@
 | 3 |  CursoListas     | [Ver PDF](CursoListas_PadiernaDelgadoRamiro.pdf)    |
 | 4 |  Repaso de Listas     | [Ver PDF](Repaso_De_Listas_PadiernaDelgadoRamiro.pdf)    |
 | 5 |  Repaso     | [Ver PDF](Repaso_PadiernaDelgadoRamiro.pdf)    |
-| 6 |  Nearpod Cola     | [Ver PDF](Neardpod_Cola_PadiernaDelgadoRamiro.pdf), [Ver Video]("") |
+| 6 |  Nearpod Cola     | [Ver PDF](Neardpod_Cola_PadiernaDelgadoRamiro.pdf), [Ver Video]("https://drive.google.com/file/d/1fpHAbGegU4IxaLewmZ6tLqtYK9EizH7l/view?usp=drive_link") |
 
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
