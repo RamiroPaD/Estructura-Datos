@@ -1,0 +1,103 @@
+Prueba Cola
+
+
+/**
+ * Aqui se realizaran los metodos de insertar, verificar, muestra el frente, quitar la tarea
+ * verificar el tamañon y un Menu
+ * @author Ramiro Padierna Delgado
+ * @author 1224100710.rpd@gmail.com
+ */
+public class PCola {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Cola<String> pCola = new Cola<>();
+        int opcion;
+        Scanner sc = new Scanner(System.in);
+       /* 
+       //Inserta tarea 
+        pCola.insertar(" Preparar cafe");
+        pCola.insertar(" Revisar emails");
+        pCola.insertar(" Iniciar proyecto");
+        
+       //Verifica el tamaño
+        System.out.println("El tamaño es de:" + pCola.getTamano());
+       //Muestra el frente 
+        System.out.println("El frente es de: " + pCola.frente());
+       //Quita la tarea 
+        System.out.println("Terea 1: " + pCola.quitar());
+       //Quita la tarea 2
+        System.out.println("Ejecucantando tarea 2: " + pCola.quitar());
+       //Verifica el tamaño 
+        System.out.println("El tamaño de la cola es " + pCola.getTamano());
+        */
+        //Menu
+        do{
+           System.out.println("===== MENU =====");
+           System.out.println("1. Insertar");
+           System.out.println("2. Verificar el tamaño");
+           System.out.println("3. Muestra el frente");
+           System.out.println("4. Quitar la tarea");
+           System.out.println("5. Salir del programa");
+           
+           System.out.println("Selecciona una opcion");
+           
+           try{
+           opcion = sc.nextInt();
+           sc.nextLine();
+        
+        switch(opcion){
+            case 1: {
+                System.out.println("Ingrese una tarea: ");
+                String dato = sc.nextLine();
+                pCola.insertar(dato);
+                System.out.println("Se ha insertado correctamente");
+            }break;
+            case 2: {
+                if(pCola.getTamano()>0){
+                    System.out.println("El tamano de la cola es de:" + pCola.getTamano());
+                }else{
+                System.out.println("La cola esta vacia");
+            }
+            }
+                break;
+            case 3:
+                    if (pCola.getTamano() > 0) {
+                       
+                        System.out.println("El elemento es: " + pCola.frente());
+                    } else {
+                        System.out.println("No hay elemento en frente.");
+                    }
+                    break;
+            case 4: {
+              if (pCola.getTamano() > 0) {
+                            String eliminada = pCola.quitar();
+                            System.out.println("Tarea completada y eliminada: " + eliminada);
+                        } else {
+                            System.out.println("No hay tareas para quitar.");
+                        }
+                    }
+            case 5: {
+            System.out.println("Estas saliendo del sistema");
+            }break;
+            
+            default :
+            System.out.println("Opcion no valida");
+           
+        }
+        }catch(InputMismatchException e){
+                System.out.println("Error: Debes ingresar un número (1-5) para elegir una opción.");
+                sc.nextLine(); 
+                opcion = 0;
+                }
+        }
+        while(opcion != 5);
+        
+        sc.close();
+        }
+}
+        
+        
+    
