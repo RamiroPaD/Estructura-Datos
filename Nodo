@@ -1,0 +1,43 @@
+Nodo
+
+
+/**
+ *La clase Nodo tiene dos atributos con sus getters y setters y el toString
+ * @author Ramiro Padierna Delgado
+ * @author 1224100710.rpd@gmail.com
+ */
+public class Nodo<T> {
+    private T dato;
+    private Nodo siguiente;
+    
+    public Nodo(T data){
+        dato = data;
+        siguiente = null;
+        
+    }
+    //Se implementas tanto getters como setters
+
+    public T getDato() {
+        return dato;
+    }
+
+    public void setDato(T dato) {
+        this.dato = dato;
+    }
+
+    public Nodo getSiguiente() {
+        return siguiente;
+    }
+
+    public void setSiguiente(Nodo siguiente) {
+        this.siguiente = siguiente;
+    }
+    
+    //Se implementa el toString
+
+    @Override
+    public String toString() {
+        return "Nodo{" + "dato=" + dato + ", siguiente=" + siguiente + '}';
+    }
+    
+}
