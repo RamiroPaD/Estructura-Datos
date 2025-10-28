@@ -12,6 +12,7 @@
 |   |    Prueba Cola      |  [Ver Codigo](Prueba_Cola)     |
 |   |    Cola      |   [Ver Codigo](Cola)       |
 |   |    Nodo     |  [Ver Codigo](Nodo)     |
+| 7 |    Ordenamiento de Burbuja     |  [Ver PDF](Ordenamiento_de_Burbuja_PadiernaDelgadoRamiro.pdf)     |
 
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
