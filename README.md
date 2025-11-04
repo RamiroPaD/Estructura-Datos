@@ -56,5 +56,7 @@
 ### Ejercicios de Colas
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
-| 1      |  | [Ver Codigo]() |
+| 1      | Comparación de colas | [Ver Codigo](Ejercicio1Colas.java) |
+| 1      | Simulación de supermercado con carritos y cajas | [Ver Codigo](Ejercicio2Colas.java) |
+| 1      | Simulación de atención al cliente en supermercado | [Ver Codigo](Ejercicio3Colas.java) |
 
