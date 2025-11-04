@@ -39,4 +39,22 @@
 | 4      | Polinomio con Lista Enlazada Circular | [Ver Codigo](PolinomioListaCircular) |
 | 5      | Lista Doblemente Enlazada de Caracteres | [Ver Codigo](ListaDoblementeEnlazadaCaracteres) |
 
+### Ejercicios de Pilas
+| Actividad        | Nombre           | Codigo  |
+| ------------- |:-------------:| -----:|
+| 1      | Simulación simple de pila | [Ver Codigo](Ejercicio1.java) |
+| 2      | Pila de nombres  | [Ver Codigo](Ejercicio2.java) |
+| 3      | Verificar si una pila está vacía  | [Ver Codigo](Ejercicio3.java) |
+| 4      | Invertir una palabra  | [Ver Codigo](Ejercicio4.java) |
+| 5      | Balanceo de paréntesis  | [Ver Codigo](Ejercicio5.java) |
+| 6      | Decimal a binario  | [Ver Codigo](Ejercicio6.java) |
+| 7      | Simular función Deshacer (Undo)  | [Ver Codigo](Ejercicio7.java) |
+| 8      | Evaluar expresión postfija  | [Ver Codigo](Ejercicio8.java) |
+| 9      | Revertir lista  | [Ver Codigo](Ejercicio9.java) |
+| 10     | Verificar palindromo  | [Ver Codigo](Ejercicio10.java) |
+
+### Ejercicios de Colas
+| Actividad        | Nombre           | Codigo  |
+| ------------- |:-------------:| -----:|
+| 1      |  | [Ver Codigo]() |
 
