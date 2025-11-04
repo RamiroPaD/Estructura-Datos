@@ -33,11 +33,11 @@
 ### Ejercicios Practicos de Listas 
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
-| 1      | Manipulación de Lista Enlazada  | [Ver Codigo](ManipulacionListaEnlazada) |
-| 2      | Lista Enlazada de Palabras desde Archivo  | [Ver Codigo](PalabrasArchivo) |
-| 3      | Representación y Evaluación de Polinomios con Listas Enlazadas | [Ver Codigo](Polinomios) |
-| 4      | Polinomio con Lista Enlazada Circular | [Ver Codigo](PolinomioListaCircular) |
-| 5      | Lista Doblemente Enlazada de Caracteres | [Ver Codigo](ListaDoblementeEnlazadaCaracteres) |
+| 1      | Manipulación de Lista Enlazada  | [Ver Codigo](ManipulacionListaEnlazada.java) |
+| 2      | Lista Enlazada de Palabras desde Archivo  | [Ver Codigo](PalabrasArchivo.java) |
+| 3      | Representación y Evaluación de Polinomios con Listas Enlazadas | [Ver Codigo](Polinomios.java) |
+| 4      | Polinomio con Lista Enlazada Circular | [Ver Codigo](PolinomioListaCircular.java) |
+| 5      | Lista Doblemente Enlazada de Caracteres | [Ver Codigo](ListaDoblementeEnlazadaCaracteres.java) |
 
 ### Ejercicios de Pilas
 | Actividad        | Nombre           | Codigo  |
