@@ -1,5 +1,5 @@
 # Estructura de Datos
-## Ejercicios guiados
+# Ejercicios guiados
 ### PDFS
 | Actividad        | Nombre           | Url  |
 | ------------- |:-------------:| -----:|
@@ -13,6 +13,7 @@
 |   |    Cola      |   [Ver Codigo](Cola)       |
 |   |    Nodo     |  [Ver Codigo](Nodo)     |
 | 7 |    Ordenamiento de Burbuja     |  [Ver PDF](Ordenamiento_de_Burbuja_PadiernaDelgadoRamiro.pdf)     |
+| 8  |    Repaso sobre ordenamientos      |   [Ver PDF]()       |
 
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
@@ -29,7 +30,7 @@
 | 2 | StackArray      |    [Ver Codigo](pilas_StackArray) |
 | 3 | MainPila      |    [Ver Codigo](pilas_MainPila) |
 
-## Ejercicios practicos
+# Ejercicios Practicos
 ### Ejercicios Practicos de Listas 
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
