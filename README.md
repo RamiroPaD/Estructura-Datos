@@ -13,7 +13,7 @@
 |   |    Cola      |   [Ver Codigo](Cola)       |
 |   |    Nodo     |  [Ver Codigo](Nodo)     |
 | 7 |    Ordenamiento de Burbuja     |  [Ver PDF](Ordenamiento_de_Burbuja_PadiernaDelgadoRamiro.pdf)     |
-| 8  |    Repaso sobre ordenamientos      |   [Ver PDF]()       |
+| 8  |    Repaso sobre ordenamientos      |   [Ver PDF](Repaso_sobre_los-Ordenamientos_PadiernaDelgadoRamiro.pdf)       |
 
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
@@ -58,6 +58,6 @@
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
 | 1      | Comparación de colas | [Ver Codigo](Ejercicio1Colas.java) |
-| 1      | Simulación de supermercado con carritos y cajas | [Ver Codigo](Ejercicio2Colas.java) |
-| 1      | Simulación de atención al cliente en supermercado | [Ver Codigo](Ejercicio3Colas.java) |
+| 2     | Simulación de supermercado con carritos y cajas | [Ver Codigo](Ejercicio2Colas.java) |
+| 3      | Simulación de atención al cliente en supermercado | [Ver Codigo](Ejercicio3Colas.java) |
 
