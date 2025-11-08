@@ -7,7 +7,7 @@
 | 2   |  U2ACT2    | [ 📄 Ver PDF](U2ACT2_PadiernaDelgadoRamiro.pdf)   |
 | 3 |  CursoListas     | [ 📄 Ver PDF](CursoListas_PadiernaDelgadoRamiro.pdf)    |
 | 4 |  Repaso de Listas     | [ 📄 Ver PDF](Repaso_De_Listas_PadiernaDelgadoRamiro.pdf)    |
-| 5 |  Repaso     |  📄 Ver PDF](Repaso_PadiernaDelgadoRamiro.pdf)    |
+| 5 |  Repaso     |  [📄 Ver PDF](Repaso_PadiernaDelgadoRamiro.pdf)    |
 | 6 |  Nearpod Cola     | [ 📄 Ver PDF](Neardpod_Cola_PadiernaDelgadoRamiro.pdf), [Ver Video]("https://drive.google.com/file/d/1fpHAbGegU4IxaLewmZ6tLqtYK9EizH7l/view?usp=drive_link") |
 |   |    Prueba Cola      |  [💻 Ver Codigo](Prueba_Cola)     |
 |   |    Cola      |   [💻 Ver Codigo](Cola)       |
@@ -52,13 +52,13 @@
 | 6      | Decimal a binario  | [💻 Ver Codigo](Ejercicio6.java) |
 | 7      | Simular función Deshacer (Undo)  | [💻 Ver Codigo](Ejercicio7.java) |
 | 8      | Evaluar expresión postfija  | [💻 Ver Codigo](Ejercicio8.java) |
-| 9      | Revertir lista  | [Ver Codigo](Ejercicio9.java) |
-| 10     | Verificar palindromo  | [Ver Codigo](Ejercicio10.java) |
+| 9      | Revertir lista  | [💻 Ver Codigo](Ejercicio9.java) |
+| 10     | Verificar palindromo  | [💻 Ver Codigo](Ejercicio10.java) |
 
 ### Ejercicios de Colas
 | Actividad        | Nombre           | Codigo  |
 | ------------- |:-------------:| -----:|
-| 1      | Comparación de colas | [Ver Codigo](Ejercicio1Colas.java) |
-| 2     | Simulación de supermercado con carritos y cajas | [Ver Codigo](Ejercicio2Colas.java) |
-| 3      | Simulación de atención al cliente en supermercado | [Ver Codigo](Ejercicio3Colas.java) |
+| 1      | Comparación de colas | [💻 Ver Codigo](Ejercicio1Colas.java) |
+| 2     | Simulación de supermercado con carritos y cajas | [💻 Ver Codigo](Ejercicio2Colas.java) |
+| 3      | Simulación de atención al cliente en supermercado | [💻 Ver Codigo](Ejercicio3Colas.java) |
 
