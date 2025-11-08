@@ -3,7 +3,7 @@
 ### PDFS
 | Actividad        | Nombre           | Url  |
 | ------------- |:-------------:| -----:|
-| 1     | U2EJERGUIA01 | [Ver PDF](U2EJERGUIA01_PadiernaDelgadoRamiro.pdf)   |
+| 1     |  📄 U2EJERGUIA01 | [Ver PDF](U2EJERGUIA01_PadiernaDelgadoRamiro.pdf)   |
 | 2   |  U2ACT2    | [Ver PDF](U2ACT2_PadiernaDelgadoRamiro.pdf)   |
 | 3 |  CursoListas     | [Ver PDF](CursoListas_PadiernaDelgadoRamiro.pdf)    |
 | 4 |  Repaso de Listas     | [Ver PDF](Repaso_De_Listas_PadiernaDelgadoRamiro.pdf)    |
@@ -14,6 +14,7 @@
 |   |    Nodo     |  [Ver Codigo](Nodo)     |
 | 7 |    Ordenamiento de Burbuja     |  [Ver PDF](Ordenamiento_de_Burbuja_PadiernaDelgadoRamiro.pdf)     |
 | 8  |    Repaso sobre ordenamientos      |   [Ver PDF](Repaso_sobre_los-Ordenamientos_PadiernaDelgadoRamiro.pdf)       |
+| 9  |    Gestor de Temperaturas Diarias     |  [Ver Codigo](GestordeTemperaturaDiarias.java)     |
 
 ### Codigo
 | Actividad        | Nombre           | Codigo  |
