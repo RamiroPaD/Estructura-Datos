@@ -27,9 +27,9 @@
 | 2 | Nodo      |    [💻 Ver Codigo](ListaDoble_Nodo) |
 | 3 | Fila de Cine     |    [ 💻 Ver Codigo](ListaDoble_Fila_de_Cine) |
 | Pilas |       |     |
-| 1 | IStack     |    [💻 Ver Codigo](pilas_IStack) |
-| 2 | StackArray      |    [💻 Ver Codigo](pilas_StackArray) |
-| 3 | MainPila      |    [💻 Ver Codigo](pilas_MainPila) |
+| 1 | IStack     |    [💻 Ver Codigo](pilas_IStack.java) |
+| 2 | StackArray      |    [💻 Ver Codigo](pilas_StackArray.java) |
+| 3 | MainPila      |    [💻 Ver Codigo](pilas_MainPila.java) |
 
 # Ejercicios Practicos
 ### Ejercicios Practicos de Listas 
